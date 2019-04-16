@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Beep Boop Computer Soup"
+date:   2019-04-16 14:59:16 -0400
+categories: jekyll update
+---
+Beep boop bop booop beep beep bop boop beeeeeeeeep boop bop. Beep boop bop booop beep beep bop boop beeeeeeeeep boop bop. Beep boop bop booop beep beep bop boop beeeeeeeeep boop bop. Beep boop bop booop beep beep bop boop beeeeeeeeep boop bop. Beep boop bop booop beep beep bop boop beeeeeeeeep boop bop. Beep boop bop booop beep beep bop boop beeeeeeeeep boop bop. Beep boop bop booop beep beep bop boop beeeeeeeeep boop bop. Beep boop bop booop beep beep bop boop beeeeeeeeep boop bop.
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
